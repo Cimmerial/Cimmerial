@@ -1,32 +1,58 @@
 # Hi, I'm Cooper Baugh! 👋
-🎮 Game Developer | 🤖 AI Enthusiast | 📚 Driven Student 
 
-I'm Cooper Baugh, a second-year computer science student at The University of Colorado, Boulder. While my journey into computer science began as a 
-class requirement, I quickly discovered my passion for problem-solving, coding, and the versatility of the field. With a foundation in C++, I’ve become particularly 
-interested in game development and the user experience. I’m always eager to learn and grow, continuously seeking opportunities to expand my knowledge. 
-I enjoy rock climbing, cinema, and animation.
+**Computer Science Student @ CU Boulder | Full-Stack Developer | AI/ML Enthusiast**
 
-## 🛠️ Skills
-- **Languages:** C#, C++, JavaScript, HTML
-- **Game Development:** Unity, Aesprite, Asset Management, Seeded Randomness
-- **AI/Algorithms:** Behavior Trees, Pathfinding, Procedural Generation, State Machines
-- **Tools:** Docker, Git, Visual Studio
+I'm a second-year CS student at the University of Colorado Boulder with a passion for building tools that solve real problems. My work spans quantitative trading systems, social music apps, AI-powered browser extensions, and game development. I love exploring the intersection of algorithms, user experience, and automation.
+
+When I'm not coding, you'll find me rock climbing, watching films, or diving into animation theory.
+
+## 🛠️ Technical Stack
+
+**Languages:** C++, C#, JavaScript, Python, HTML, SQL, Java, Scala  
+**Tools & Frameworks:** React, Node.js, Unity, Docker, Git, Firebase, Express  
+**Specialties:** Full-stack development, algorithmic trading, AI/ML integration, game development
 
 ## 🚀 Featured Projects
-- [A* Algorithm](https://github.com/Cimmerial/A-Star.git): A modified implementation of the A* algorithm, featuring customizable heuristics and dynamic path adjustments.
-- [BehaviorTree](https://github.com/Cimmerial/BehaviorTree.git): A scalable behavior tree framework that simplifies managing complex decision-making logic, ideal for AI in games.
-- [Elevate or Asphyxiate](https://github.com/Cimmerial/ElevateOrAsphyxiate.git): A challenging arcade-style survival game made for the annual Interstellar game jam with the Unity framework.
-- [BlackWinter-Public](https://github.com/Cimmerial/BlackWinter-Public.git): The public branch of **Black Winter**, a game currently deep in development.
 
-## 📂 Earlier Projects
-- [Memory Card Game](https://github.com/Cimmerial/Memory.git): A simulated memory focused card game which can be played in the terminal.
-- [The Odyssey](https://github.com/Cimmerial/TheOdyssey.git): A two player adventure game which involves decision making and random events.
+### T.P.S Trading— *Automated Quantitative Trading System*
+Automated trading application with morning cache refresh routines, DuckDB-powered data querying, and Alpaca API integration for live execution. Built with Python, JavaScript, and Parquet storage.
+
+### [Juician](https://juician.vercel.app/) — *Social Music Ranking App*
+React-based music ranking platform integrating Apple MusicKit and Spotify APIs. Features Firebase backend, client-side CSV processing, and GZIP compression for efficient user history uploads.
+
+### [Mychive (MyArchive)](https://github.com/Cimmerial/MyArchive) — *Personal Knowledge Management*
+Full-stack wiki system with hierarchical structure, automated cross-linking, and fuzzy search. Built with React, Express, SQLite, and Vite.
+
+### [Albino Tiger](https://github.com/Cimmerial/AlbinoTiger) — *AI Prompt Engineering Extension*
+Context-aware browser extension automating prompt workflows across ChatGPT, Claude, Gemini, and 10+ LLM platforms. Hybrid architecture with local Node.js server for secure file retrieval.
+
+### [BlackWinter](https://github.com/Cimmerial/BlackWinter-Public) — *Roguelike Hack-and-Slash*
+Unity-based game featuring custom [behavior tree AI system](https://github.com/Cimmerial/BehaviorTree) and optimized [A* pathfinding](https://github.com/Cimmerial/A-Star) with dynamic adjustments.
+
+### Nimbus Navigator — *Educational Weather App*
+Child-friendly weather application built with Node.js, Express, and modern web technologies.
+
+## 💼 Experience
+
+**AI Business Applications Intern** — City of Lakewood (Summer 2025)  
+Led GenAI capability assessments across 10 city departments, developed integration strategies, and educated stakeholders on AI opportunities and governance.
+
+**Computer Systems Course Assistant** — CU Boulder (Spring 2025)  
+Mentored students on systems concepts, focusing on teaching problem-solving approaches rather than just answers.
 
 ## 🌱 Currently Exploring
-- **Advanced Procedural Generation:** Delving into algorithms that create expansive, random room configurations using "controlled randomness".
-- **Deep Reinforcement Learning (DRL):** Understanding the techniques that enable AI to learn through trial and error, and how these techniques are improving.
-- **Disney's "12 Principles of Animation":** Exploring the concepts from *The Illusion of Life* (1981) to further understand animation and how certain techniques can influence human perception. 
 
-## 🌐 Let's Connect
-- Email: cooper.baugh@gmail.com
-- LinkedIn: [Cooper Baugh](https://www.linkedin.com/in/cooper-baugh-b4536b241/)
+- Quantitative finance and algorithmic trading strategies
+- Full-stack application architecture and deployment
+- AI-assisted development workflows and prompt engineering
+- Advanced procedural generation for game design
+
+## 📫 Let's Connect
+
+- **Email:** cooper.baugh@gmail.com
+- **LinkedIn:** [Cooper Baugh](https://www.linkedin.com/in/cooper-baugh-b4536b241/)
+- **Portfolio:** Check out my pinned repositories below!
+
+---
+
+*Open to internship opportunities and collaboration on interesting projects.*

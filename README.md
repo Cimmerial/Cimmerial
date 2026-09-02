@@ -2,9 +2,9 @@
 
 **Computer Science Student @ CU Boulder | Full-Stack Developer | AI/ML Enthusiast**
 
-I'm a second-year CS student at the University of Colorado Boulder with a passion for building tools that solve real problems. My work spans quantitative trading systems, social music apps, AI-powered browser extensions, and game development. I love exploring the intersection of algorithms, user experience, and automation.
+I'm a third-year CS student at the University of Colorado Boulder with a passion for building tools that solve real problems. My work spans quantitative trading systems, social music apps, AI-powered browser extensions, and game development. I love exploring the intersection of algorithms, user experience, and automation.
 
-When I'm not coding, you'll find me rock climbing, watching films, or diving into animation theory.
+When I'm not coding, you'll find me rock climbing, watching movies, or diving into animation theory.
 
 ## 🛠️ Technical Stack
 

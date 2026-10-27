@@ -1,58 +1,46 @@
-# Hi, I'm Cooper Baugh! 👋
+# Cooper Baugh
 
-**Computer Science Student @ CU Boulder | Full-Stack Developer | AI/ML Enthusiast**
+Computer science student at CU Boulder, graduating May 2027. I build full-stack apps, mostly things I wanted to exist and couldn't find.
 
-I'm a third-year CS student at the University of Colorado Boulder with a passion for building tools that solve real problems. My work spans quantitative trading systems, social music apps, AI-powered browser extensions, and game development. I love exploring the intersection of algorithms, user experience, and automation.
+Lately that's been a movie and TV ranking app, a trading bot, and a few tools for working with LLMs. Outside of code I rock climb, watch movies, read, and do art.
 
-When I'm not coding, you'll find me rock climbing, watching movies, or diving into animation theory.
+## Stack
 
-## 🛠️ Technical Stack
+**Languages:** C++, C#, Python, JavaScript, GO, TypeScript, HTML, SQL, Java
+**Tools:** React, Node.js, Express, Firebase, Supabase, PostgreSQL, SQLite, Unity, Docker, Git
 
-**Languages:** C++, C#, JavaScript, Python, HTML, SQL, Java, Scala  
-**Tools & Frameworks:** React, Node.js, Unity, Docker, Git, Firebase, Express  
-**Specialties:** Full-stack development, algorithmic trading, AI/ML integration, game development
+## Projects
 
-## 🚀 Featured Projects
+### [Clastone](https://testflight.apple.com/join/wNJcxd6W)
+A personal library for movies, TV, actors, and directors. You track what you've watched, rank it in tiers, add friends, and see stats on your taste. Built with React, TypeScript, Firebase, and Capacitor, with the TMDB API for data. It also imports your Letterboxd export so you don't have to start over.
 
-### T.P.S Trading— *Automated Quantitative Trading System*
-Automated trading application with morning cache refresh routines, DuckDB-powered data querying, and Alpaca API integration for live execution. Built with Python, JavaScript, and Parquet storage.
+### T.P.S Trading
+An automated trading app that runs predefined strategy profiles. Each morning it refreshes its cache and looks for opportunities, then places trades through the Alpaca API. Data lives in Parquet files and gets queried with DuckDB.
 
-### [Juician](https://juician.vercel.app/) — *Social Music Ranking App*
-React-based music ranking platform integrating Apple MusicKit and Spotify APIs. Features Firebase backend, client-side CSV processing, and GZIP compression for efficient user history uploads.
+### [Juician](https://juician.vercel.app/)
+A social app for ranking music, using Apple MusicKit and the Spotify API. Users upload their listening history as a CSV, which gets processed and GZIP-compressed in the browser before it's sent to Firebase.
 
-### [Mychive (MyArchive)](https://github.com/Cimmerial/MyArchive) — *Personal Knowledge Management*
-Full-stack wiki system with hierarchical structure, automated cross-linking, and fuzzy search. Built with React, Express, SQLite, and Vite.
+### [Mychive](https://github.com/Cimmerial/MyArchive)
+A personal wiki with nested pages, automatic cross-linking, and fuzzy search. Each workspace gets its own SQLite database, so projects stay separate and are easy to move around.
 
-### [Albino Tiger](https://github.com/Cimmerial/AlbinoTiger) — *AI Prompt Engineering Extension*
-Context-aware browser extension automating prompt workflows across ChatGPT, Claude, Gemini, and 10+ LLM platforms. Hybrid architecture with local Node.js server for secure file retrieval.
+### [Albino Tiger](https://github.com/Cimmerial/AlbinoTiger)
+A Chrome extension that helps write and send prompts on ChatGPT, Claude, Gemini, and 10+ other LLM sites. A small local Node server lets it pull in files from your machine as context.
 
-### [BlackWinter](https://github.com/Cimmerial/BlackWinter-Public) — *Roguelike Hack-and-Slash*
-Unity-based game featuring custom [behavior tree AI system](https://github.com/Cimmerial/BehaviorTree) and optimized [A* pathfinding](https://github.com/Cimmerial/A-Star) with dynamic adjustments.
+### [BlackWinter](https://github.com/Cimmerial/BlackWinter-Public)
+A roguelike hack-and-slash in Unity with procedurally generated levels. I wrote a [behavior tree system](https://github.com/Cimmerial/BehaviorTree) for the enemy AI and an [A* pathfinding implementation](https://github.com/Cimmerial/A-Star) with adjustable heuristic weights.
 
-### Nimbus Navigator — *Educational Weather App*
-Child-friendly weather application built with Node.js, Express, and modern web technologies.
+### Nimbus Navigator
+A weather app for kids, built with Node.js and Express.
 
-## 💼 Experience
+## Experience
 
-**AI Business Applications Intern** — City of Lakewood (Summer 2025)  
-Led GenAI capability assessments across 10 city departments, developed integration strategies, and educated stakeholders on AI opportunities and governance.
+**AI Business Applications Intern, City of Lakewood** (Summer 2025)
+Met with all 10 city departments to see where generative AI could help, then wrote recommendations and usage policies. A big part of the job was explaining AI to people with no technical background.
 
-**Computer Systems Course Assistant** — CU Boulder (Spring 2025)  
-Mentored students on systems concepts, focusing on teaching problem-solving approaches rather than just answers.
+**Computer Systems Course Assistant, CU Boulder** (Spring 2025)
+Helped students in the systems course. I tried to walk them through how I'd approach a problem instead of handing over the answer.
 
-## 🌱 Currently Exploring
+## Contact
 
-- Quantitative finance and algorithmic trading strategies
-- Full-stack application architecture and deployment
-- AI-assisted development workflows and prompt engineering
-- Advanced procedural generation for game design
-
-## 📫 Let's Connect
-
-- **Email:** cooper.baugh@gmail.com
-- **LinkedIn:** [Cooper Baugh](https://www.linkedin.com/in/cooper-baugh-b4536b241/)
-- **Portfolio:** Check out my pinned repositories below!
-
----
-
-*Open to internship opportunities and collaboration on interesting projects.*
+- Email: cooper.baugh@gmail.com
+- LinkedIn: [Cooper Baugh](https://www.linkedin.com/in/cooper-baugh-b4536b241/)
